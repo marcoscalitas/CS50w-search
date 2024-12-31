@@ -8,6 +8,7 @@
   - [Requirements](#requirements)
   - [Installation](#installation)
   - [Project Structure](#project-structure)
+  
 
 ## Overview
 This is the **"Search"** project, developed as part of the CS50's Web Programming with Python and JavaScript course. This project involves designing a front-end interface for Google Search, Google Image Search, and Google Advanced Search. The application sends data to Google's servers using GET parameters and replicates Google's search functionality. 
